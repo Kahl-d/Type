@@ -2,14 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
-/* Smooth scrolling */
-html {
-  scroll-behavior: smooth;
-}
-
-/* Body styling */
 body {
-  font-family: 'Inter', sans-serif;
-  background-color: #f9fafb;
+  font-family: "Inter", sans-serif;
 }
